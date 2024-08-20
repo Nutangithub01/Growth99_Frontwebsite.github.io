@@ -23,7 +23,7 @@ c. A simple copyright notice.
 
 The webpage is responsive in all the devices. 
 
-The live demo link for this project:-
+A video link for a short presentation explaining my approach :-
 https://github.com/user-attachments/assets/09c39a58-eb6c-47ce-9fcf-bfcd13b01ee2
 
 
