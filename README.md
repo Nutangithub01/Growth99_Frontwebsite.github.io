@@ -11,13 +11,11 @@ Responsive web page layout using HTML and CSS has been created. The page adjusts
 
 
 2.	Hero Section:- 
-
 •	Full-width hero image has been taken with a centered heading and subheading text overlay.
 •	The text remains centered and readable on all screen sizes.
 
 
 3.	Three-Column Section:-
-
 •	The footer should have three sections:
 a. Contact Information
 b. Social Media Links
